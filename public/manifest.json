@@ -1,0 +1,6 @@
+{
+  "short_name": "CPCv2",
+  "name": "Car price calculator v2",
+  "start_url": ".",
+  "display": "standalone"
+}

@@ -1,0 +1,35 @@
+.favorites-count-main {
+  .favorites-count,
+  .favorites-title {
+    display: inline-block;
+    vertical-align: middle;
+  }
+
+  .favorites-count {
+    position: relative;
+    b {
+      position: absolute;
+      font-size: 12px;
+      background: #3074c8;
+      padding: 0px 5.5px;
+      bottom: 75%;
+      color: #fff;
+      border-radius: 4px;
+      display: inline-block;
+      left: 60%;
+      font-family: 'Helvetica Neue';
+      font-style: normal;
+      font-weight: normal;
+    }
+  }
+
+  .favorites-title {
+    font-family: 'Helvetica Neue';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    letter-spacing: 0.01em;
+    color: #000000;
+    margin-left: 10px;
+  }
+}
